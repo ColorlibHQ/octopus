@@ -1,0 +1,20 @@
+{
+  "original_repository": "https://github.com/themezoz/octopus-dashboard",
+  "original_commit": "8c0a0bd069dbef39eee741677b5455a734b5da2f",
+  "palette": {
+    "primary": "#0088cc",
+    "sidebar": "#34495e",
+    "canvas": "#ecedf0"
+  },
+  "new_pages": [
+    "index",
+    "charts",
+    "users",
+    "tables",
+    "calendar",
+    "messages",
+    "forms",
+    "components",
+    "settings"
+  ]
+}
